@@ -14,7 +14,8 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <h1>
 <center>
-Welcome ${uid}
+<font color="red">
+Welcome</font> ${uid}
 </h1>
 </center>
 <br>
